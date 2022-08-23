@@ -28,7 +28,7 @@ The things you need before installing the website source code.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at abdulwaheed@ieee.org
+If you have any feedback, please reach me out at abdulwaheed@ieee.org
 
 ## 🔗 Links
 
